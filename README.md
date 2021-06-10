@@ -5,7 +5,7 @@ Repositories can be in different or same region, domain, domain owner.
 
 # Prerequisities
 
-**Boto3**, **json** and **requests** packages need to be installed.  
+[AWS Cli v2](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) needs to be installed and configured and **Boto3**, **json** and **requests** packages must be installed.  
    
 `pip install boto`  
 `pip install json`  
