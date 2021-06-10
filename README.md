@@ -1,6 +1,6 @@
 # CodeArtifact package migration script
 
-Python script which can be used to copy artifacts (cross-region/same-region) between CodeArtifact repositories.
+Can be used to copy artifacts (cross-region/same-region) between CodeArtifact repositories.
 Repositories can be in different or same region, domain, domain owner.
 
 # Prerequisities
